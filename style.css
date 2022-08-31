@@ -344,3 +344,22 @@ body {
 .section-four {
   padding: 0px 150px;
 }
+
+.moon-img {
+  margin-top: -240px;
+}
+.img-group {
+  width: 800px;
+}
+.third-sec-title {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 20px;
+}
+.section-mg-top {
+  margin-top: 80px;
+}
